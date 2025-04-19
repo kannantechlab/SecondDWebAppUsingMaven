@@ -4,7 +4,7 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>Insert title here</title>
+<title>Kannan's First Web App</title>
 </head>
 <body>
 Testing
